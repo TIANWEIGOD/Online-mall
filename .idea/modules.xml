@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../day_65lucene/day_65lucene.iml" filepath="$PROJECT_DIR$/../day_65lucene/day_65lucene.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm_dao/ssm_dao.iml" filepath="$PROJECT_DIR$/ssm_dao/ssm_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ssm_parent_70/ssm_daos/ssm_daos.iml" filepath="$PROJECT_DIR$/../ssm_parent_70/ssm_daos/ssm_daos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm_domain/ssm_domain.iml" filepath="$PROJECT_DIR$/ssm_domain/ssm_domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ssm_parent_70/ssm_domains/ssm_domains.iml" filepath="$PROJECT_DIR$/../ssm_parent_70/ssm_domains/ssm_domains.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm_parent_69.iml" filepath="$PROJECT_DIR$/ssm_parent_69.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ssm_parent_70/ssm_parent_70.iml" filepath="$PROJECT_DIR$/../ssm_parent_70/ssm_parent_70.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm_service/ssm_service.iml" filepath="$PROJECT_DIR$/ssm_service/ssm_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ssm_parent_70/ssm_services/ssm_services.iml" filepath="$PROJECT_DIR$/../ssm_parent_70/ssm_services/ssm_services.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm_util/ssm_util.iml" filepath="$PROJECT_DIR$/ssm_util/ssm_util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ssm_parent_70/ssm_utils/ssm_utils.iml" filepath="$PROJECT_DIR$/../ssm_parent_70/ssm_utils/ssm_utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm_web/ssm_web.iml" filepath="$PROJECT_DIR$/ssm_web/ssm_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ssm_parent_70/ssm_webs/ssm_webs.iml" filepath="$PROJECT_DIR$/../ssm_parent_70/ssm_webs/ssm_webs.iml" />
+    </modules>
+  </component>
+</project>

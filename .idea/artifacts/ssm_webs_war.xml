@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ssm_webs:war">
+    <output-path>$PROJECT_DIR$/../ssm_parent_70/ssm_webs/target</output-path>
+    <root id="archive" name="ssm_webs-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="ssm_webs:war exploded" />
+    </root>
+  </artifact>
+</component>
